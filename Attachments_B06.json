@@ -1,0 +1,12 @@
+{
+  "Optic": "Accu-Spot Reflex, Accu-Spot Ultra Holo, Blandwell 7x Scope, Dobrych 4x, Dobrych MF Reflex, Jason Armory 2x, K&S Red Dot, K&S Thermal Holo, Kepler Microflex, Kepler Red Dot, Merlin Mini, Merlin Reflex, OM3 '92 Holo, Otero Micro Dot, Otero Red Dot, Otero Thermal 2x, Pinpoint Holoscout, PrismaPoint Hybrid, PrismaTech 4x, PrismaTech Reflex, R&K Multizoom, Redwell Custom Zoom, Redwell Reflex, Remuda Dual Zoom, Remuda Mini Reflex, Remuda Range Finder, Thermal 6x, VMF Variable Scope, Volzhskiy Reflex, Willis 3x",
+  "Muzzle": "Suppressor, Compensator, Muzzle Brake, Ported Compensator, Modified Choke, Full Choke",
+  "Barrel": "Gain-Twist Barrel, CHF Barrel, Long Barrel, Reinforced Barrel, Short Barrel, Heavy Barrel, Combat Barrel, Quick Load Barrel",
+  "Underbarrel": "Vertical Foregrip, Launcher - Standard, Launcher - Explosive, Lightweight Foregrip, Precision Foregrip, Marksman Foregrip, Ranger Foregrip, Crossbar, Lightweight Handguard, Weighted Handguard, Precision Handguard, Ranger Handguard, Marksman Handguard",
+  "Magazine": "Extended Mag I, Fast Mag I, Extended Mag II, Flip Mag, Extended Mag III, Fast Mag II, Fast Mag III",
+  "Rear Grip": "Quickdraw Grip, Commando Grip, Assault Grip, Ergonomic Grip, CQB Grip",
+  "Stock": "Heavy Stock, Light Stock, Balanced Stock, Combat Stock, Infiltrator Stock, No Stock, Quickdraw Stock, Agility Stock, Ergonomic Stock, Akimbo GS45, Akimbo 9mm PM",
+  "Laser": "Steady Aim Laser, Tactical Laser, Strelok Laser, Fast Motion Laser, Target Laser",
+  "Fire Mods": "5.56 NATO FMJ, Rapid Fire, Recoil Springs, 5.56 NATO Overpressured, 9x19mm Parabellum Overpressured, 9mm Parabellum FMJ, 12 Gauge Slug, 7.62 NATO Overpressured, 7.62 NATO FMJ, 7.62x54mmR Overpressured, 7.62x54mmR FMJ, .45 ACP FMJ, .45 ACP Overpressured, 5.45x39mm FMJ, 5.45x39mm Overpressured, 9x18mm Makarov FMJ, 9x18mm Makarov Overpressured",
+  "Comb": "Quickdraw Riser, Combat Riser, Commando Riser, Ergonomic Riser, CQB Riser"
+}
